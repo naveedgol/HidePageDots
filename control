@@ -1,0 +1,9 @@
+Package: com.naveedgol.hidepagedots
+Name: Hide Page Dots
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide home screen page dots
+Maintainer: Naveed Golafshani
+Author: Naveed Golafshani
+Section: Tweaks
